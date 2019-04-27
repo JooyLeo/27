@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.yychatclient.view.java.java&apos; to &apos;FriendList.java&apos;&#x0D;&#x0A;- Original project: &apos;com.yychatclient.view&apos;&#x0D;&#x0A;- Original element: &apos;com.yychatclient.view.java.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.yychatclient.view.FriendList.java&apos;" description="Rename compilation unit &apos;java.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.yychatclient.view{java.java" name="FriendList.java" references="false" stamp="1551869314091" version="1.0"/>
+</session>
